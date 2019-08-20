@@ -1,0 +1,11 @@
+Vivado Simulator 2017.4
+Time resolution is 1 ps
+PC = 0xxxxxxxxx, IR = 0xxxxxxxxx , ALUOut = 0xxxxxxxxx
+PC = 0x00000c00, IR = 0x00000000 , ALUOut = 0xxxxxxxxx
+PC = 0x00000c01, IR = 0x00000026 , ALUOut = 0xxxxxxxxx
+PC = 0x00000c01, IR = 0x00000026 , ALUOut = 0x00000000
+PC = 0x00000c02, IR = 0x24021234 , ALUOut = 0x00000000
+PC = 0x00000c02, IR = 0x24021234 , ALUOut = 0x00001234
+PC = 0x00000c02, IR = 0x24021234 , ALUOut = 0xxxxxxxxx
+PC = 0x00000c03, IR = 0x30433456 , ALUOut = 0x00001234
+PC = 0x00000c03, IR = 0x30433456 , ALUOut = 0x00001014

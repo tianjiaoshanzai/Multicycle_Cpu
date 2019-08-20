@@ -1,0 +1,60 @@
+Vivado Simulator 2014.2
+Copyright 1986-1999, 2001-2014 Xilinx, Inc. All Rights Reserved.
+Running: F:/xilin/Vivado/2014.2/bin/unwrapped/win64.o/xelab.exe --debug typical --relax -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot mips_tb_behav --prj F:/A_Study/计算机组成原理实验/期末/P15_Final/P15_Final.sim/sim_1/behav/mips_tb.prj xil_defaultlib.mips_tb xil_defaultlib.glbl 
+Multi-threading is on. Using 2 slave threads.
+Determining compilation order of HDL files.
+INFO: [VRFC 10-165] Analyzing Verilog file "F:/A_Study/计算机组成原理实验/期末/P15_Final/P15_Final.srcs/sources_1/new/RF.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RF
+INFO: [VRFC 10-165] Analyzing Verilog file "F:/A_Study/计算机组成原理实验/期末/P15_Final/P15_Final.srcs/sources_1/new/PC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PC
+INFO: [VRFC 10-165] Analyzing Verilog file "F:/A_Study/计算机组成原理实验/期末/P15_Final/P15_Final.srcs/sources_1/new/NPC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module NPC
+INFO: [VRFC 10-165] Analyzing Verilog file "F:/A_Study/计算机组成原理实验/期末/P15_Final/P15_Final.srcs/sources_1/new/mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux2
+INFO: [VRFC 10-311] analyzing module mux4
+INFO: [VRFC 10-311] analyzing module mux8
+INFO: [VRFC 10-311] analyzing module mux16
+INFO: [VRFC 10-165] Analyzing Verilog file "F:/A_Study/计算机组成原理实验/期末/P15_Final/P15_Final.srcs/sources_1/new/IR.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IR
+INFO: [VRFC 10-165] Analyzing Verilog file "F:/A_Study/计算机组成原理实验/期末/P15_Final/P15_Final.srcs/sources_1/new/im_4k.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module im_4k
+INFO: [VRFC 10-165] Analyzing Verilog file "F:/A_Study/计算机组成原理实验/期末/P15_Final/P15_Final.srcs/sources_1/new/flopr.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module flopr
+INFO: [VRFC 10-165] Analyzing Verilog file "F:/A_Study/计算机组成原理实验/期末/P15_Final/P15_Final.srcs/sources_1/new/EXT.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EXT
+INFO: [VRFC 10-165] Analyzing Verilog file "F:/A_Study/计算机组成原理实验/期末/P15_Final/P15_Final.srcs/sources_1/new/dm_4k.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dm_4k
+INFO: [VRFC 10-165] Analyzing Verilog file "F:/A_Study/计算机组成原理实验/期末/P15_Final/P15_Final.srcs/sources_1/new/ctrl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ctrl
+WARNING: [VRFC 10-986] literal value truncated to fit in 6 bits [F:/A_Study/计算机组成原理实验/期末/P15_Final/P15_Final.srcs/sources_1/new/ctrl.v:165]
+INFO: [VRFC 10-165] Analyzing Verilog file "F:/A_Study/计算机组成原理实验/期末/P15_Final/P15_Final.srcs/sources_1/new/alu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu
+INFO: [VRFC 10-165] Analyzing Verilog file "F:/A_Study/计算机组成原理实验/期末/P15_Final/P15_Final.srcs/sources_1/new/mips.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mips
+INFO: [VRFC 10-165] Analyzing Verilog file "F:/A_Study/计算机组成原理实验/期末/P15_Final/P15_Final.srcs/sim_1/new/mips_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mips_tb
+INFO: [VRFC 10-165] Analyzing Verilog file "F:/xilin/Vivado/2014.2/data/verilog/src/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.ctrl
+Compiling module xil_defaultlib.PC
+Compiling module xil_defaultlib.NPC
+Compiling module xil_defaultlib.im_4k
+Compiling module xil_defaultlib.IR
+Compiling module xil_defaultlib.RF
+Compiling module xil_defaultlib.mux4(WIDTH=5)
+Compiling module xil_defaultlib.mux4(WIDTH=32)
+Compiling module xil_defaultlib.flopr(WIDTH=32)
+Compiling module xil_defaultlib.EXT
+Compiling module xil_defaultlib.mux2(WIDTH=32)
+Compiling module xil_defaultlib.alu
+Compiling module xil_defaultlib.dm_4k
+Compiling module xil_defaultlib.mips
+Compiling module xil_defaultlib.mips_tb
+Compiling module xil_defaultlib.glbl
+Waiting for 2 sub-compilation(s) to finish...
+Built simulation snapshot mips_tb_behav

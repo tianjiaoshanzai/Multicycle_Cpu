@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="mips_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="mips_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="7271416667fs"></ZoomStartTime>
+      <ZoomEndTime time="7742916668fs"></ZoomEndTime>
+      <Cursor1Time time="7500000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="175"></NameColumnWidth>
+      <ValueColumnWidth column_width="118"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="25" />
+   <wvobject fp_name="/mips_tb/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mips_tb/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mips_tb/U_MIPS/U_PC/PCWr" type="logic">
+      <obj_property name="ElementShortName">PCWr</obj_property>
+      <obj_property name="ObjectShortName">PCWr</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mips_tb/U_MIPS/U_CTRL/IRWr" type="logic">
+      <obj_property name="ElementShortName">IRWr</obj_property>
+      <obj_property name="ObjectShortName">IRWr</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mips_tb/U_MIPS/U_DM/DMWr" type="logic">
+      <obj_property name="ElementShortName">DMWr</obj_property>
+      <obj_property name="ObjectShortName">DMWr</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mips_tb/U_MIPS/U_PC/NPC" type="array">
+      <obj_property name="ElementShortName">NPC[31:2]</obj_property>
+      <obj_property name="ObjectShortName">NPC[31:2]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mips_tb/U_MIPS/U_PC/PC" type="array">
+      <obj_property name="ElementShortName">PC[31:2]</obj_property>
+      <obj_property name="ObjectShortName">PC[31:2]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mips_tb/ir" type="array">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">ir[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ir[31:0]</obj_property>
+      <obj_property name="label">IR</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mips_tb/U_MIPS/U_CTRL/state" type="array">
+      <obj_property name="ElementShortName">state[3:0]</obj_property>
+      <obj_property name="ObjectShortName">state[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mips_tb/U_MIPS/U_CTRL/nextstate" type="array">
+      <obj_property name="ElementShortName">nextstate[3:0]</obj_property>
+      <obj_property name="ObjectShortName">nextstate[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mips_tb/U_MIPS/U_RF/rf" type="array">
+      <obj_property name="ElementShortName">rf[31:0][31:0]</obj_property>
+      <obj_property name="ObjectShortName">rf[31:0][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mips_tb/U_MIPS/U_ALU/A" type="array">
+      <obj_property name="ElementShortName">A[31:0]</obj_property>
+      <obj_property name="ObjectShortName">A[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mips_tb/U_MIPS/U_ALU/B" type="array">
+      <obj_property name="ElementShortName">B[31:0]</obj_property>
+      <obj_property name="ObjectShortName">B[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mips_tb/U_MIPS/U_ALU/C" type="array">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">C[31:0]</obj_property>
+      <obj_property name="ObjectShortName">C[31:0]</obj_property>
+      <obj_property name="label">ToALUOUT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mips_tb/U_MIPS/U_IM/imem" type="array">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">imem[1023:0][31:0]</obj_property>
+      <obj_property name="ObjectShortName">imem[1023:0][31:0]</obj_property>
+      <obj_property name="label">IM</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mips_tb/U_MIPS/U_DM/dmem" type="array">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">dmem[1023:0][31:0]</obj_property>
+      <obj_property name="ObjectShortName">dmem[1023:0][31:0]</obj_property>
+      <obj_property name="label">DM</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mips_tb/U_MIPS/U_RF/rf[31]" type="array">
+      <obj_property name="ElementShortName">[31][31:0]</obj_property>
+      <obj_property name="ObjectShortName">[31][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mips_tb/U_MIPS/U_RF/rf[5]" type="array">
+      <obj_property name="ElementShortName">[5][31:0]</obj_property>
+      <obj_property name="ObjectShortName">[5][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mips_tb/U_MIPS/U_RF/rf[2]" type="array">
+      <obj_property name="ElementShortName">[2][31:0]</obj_property>
+      <obj_property name="ObjectShortName">[2][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mips_tb/U_MIPS/U_RF/rf[0]" type="array">
+      <obj_property name="ElementShortName">[0][31:0]</obj_property>
+      <obj_property name="ObjectShortName">[0][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mips_tb/U_MIPS/U_RF/rf[29]" type="array">
+      <obj_property name="ElementShortName">[29][31:0]</obj_property>
+      <obj_property name="ObjectShortName">[29][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mips_tb/U_MIPS/U_RF/rf[6]" type="array">
+      <obj_property name="ElementShortName">[6][31:0]</obj_property>
+      <obj_property name="ObjectShortName">[6][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mips_tb/U_MIPS/U_RF/rf[4]" type="array">
+      <obj_property name="ElementShortName">[4][31:0]</obj_property>
+      <obj_property name="ObjectShortName">[4][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mips_tb/U_MIPS/U_RF/rf[3]" type="array">
+      <obj_property name="ElementShortName">[3][31:0]</obj_property>
+      <obj_property name="ObjectShortName">[3][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mips_tb/U_MIPS/U_RF/rf[1]" type="array">
+      <obj_property name="ElementShortName">[1][31:0]</obj_property>
+      <obj_property name="ObjectShortName">[1][31:0]</obj_property>
+   </wvobject>
+</wave_config>

@@ -1,0 +1,20 @@
+0.6
+2017.4
+Dec 15 2017
+21:07:18
+C:/Users/lenovo/Desktop/P15_Final/P15_Final/P15_Final.sim/sim_1/behav/xsim/glbl.v,1513215259,verilog,,,,glbl,,,,,,,,
+C:/Users/lenovo/Desktop/P15_Final/P15_Final/P15_Final.srcs/sim_1/new/mips_tb.v,1562426251,verilog,,,,mips_tb,,,,,,,,
+C:/Users/lenovo/Desktop/P15_Final/P15_Final/P15_Final.srcs/sources_1/new/EXT.v,1513777028,verilog,,C:/Users/lenovo/Desktop/P15_Final/P15_Final/P15_Final.srcs/sources_1/new/IR.v,C:/Users/lenovo/Desktop/P15_Final/P15_Final/P15_Final.srcs/sources_1/new/ctrl_encode_def.v,EXT,,,,,,,,
+C:/Users/lenovo/Desktop/P15_Final/P15_Final/P15_Final.srcs/sources_1/new/IR.v,1513777082,verilog,,C:/Users/lenovo/Desktop/P15_Final/P15_Final/P15_Final.srcs/sources_1/new/NPC.v,,IR,,,,,,,,
+C:/Users/lenovo/Desktop/P15_Final/P15_Final/P15_Final.srcs/sources_1/new/NPC.v,1513784863,verilog,,C:/Users/lenovo/Desktop/P15_Final/P15_Final/P15_Final.srcs/sources_1/new/PC.v,C:/Users/lenovo/Desktop/P15_Final/P15_Final/P15_Final.srcs/sources_1/new/ctrl_encode_def.v,NPC,,,,,,,,
+C:/Users/lenovo/Desktop/P15_Final/P15_Final/P15_Final.srcs/sources_1/new/PC.v,1513776389,verilog,,C:/Users/lenovo/Desktop/P15_Final/P15_Final/P15_Final.srcs/sources_1/new/RF.v,,PC,,,,,,,,
+C:/Users/lenovo/Desktop/P15_Final/P15_Final/P15_Final.srcs/sources_1/new/RF.v,1513777238,verilog,,C:/Users/lenovo/Desktop/P15_Final/P15_Final/P15_Final.srcs/sources_1/new/alu.v,,RF,,,,,,,,
+C:/Users/lenovo/Desktop/P15_Final/P15_Final/P15_Final.srcs/sources_1/new/alu.v,1513776278,verilog,,C:/Users/lenovo/Desktop/P15_Final/P15_Final/P15_Final.srcs/sources_1/new/ctrl.v,C:/Users/lenovo/Desktop/P15_Final/P15_Final/P15_Final.srcs/sources_1/new/ctrl_encode_def.v,alu,,,,,,,,
+C:/Users/lenovo/Desktop/P15_Final/P15_Final/P15_Final.srcs/sources_1/new/ctrl.v,1562758167,verilog,,C:/Users/lenovo/Desktop/P15_Final/P15_Final/P15_Final.srcs/sources_1/new/dm_4k.v,C:/Users/lenovo/Desktop/P15_Final/P15_Final/P15_Final.srcs/sources_1/new/ctrl_encode_def.v;C:/Users/lenovo/Desktop/P15_Final/P15_Final/P15_Final.srcs/sources_1/new/instruction_def.v,ctrl,,,,,,,,
+C:/Users/lenovo/Desktop/P15_Final/P15_Final/P15_Final.srcs/sources_1/new/ctrl_encode_def.v,1513783994,verilog,,,,,,,,,,,,
+C:/Users/lenovo/Desktop/P15_Final/P15_Final/P15_Final.srcs/sources_1/new/dm_4k.v,1513852121,verilog,,C:/Users/lenovo/Desktop/P15_Final/P15_Final/P15_Final.srcs/sources_1/new/flopr.v,,dm_4k,,,,,,,,
+C:/Users/lenovo/Desktop/P15_Final/P15_Final/P15_Final.srcs/sources_1/new/flopr.v,1513777189,verilog,,C:/Users/lenovo/Desktop/P15_Final/P15_Final/P15_Final.srcs/sources_1/new/im_4k.v,,flopr,,,,,,,,
+C:/Users/lenovo/Desktop/P15_Final/P15_Final/P15_Final.srcs/sources_1/new/im_4k.v,1513851194,verilog,,C:/Users/lenovo/Desktop/P15_Final/P15_Final/P15_Final.srcs/sources_1/new/mips.v,,im_4k,,,,,,,,
+C:/Users/lenovo/Desktop/P15_Final/P15_Final/P15_Final.srcs/sources_1/new/instruction_def.v,1513831632,verilog,,,,,,,,,,,,
+C:/Users/lenovo/Desktop/P15_Final/P15_Final/P15_Final.srcs/sources_1/new/mips.v,1514200862,verilog,,C:/Users/lenovo/Desktop/P15_Final/P15_Final/P15_Final.srcs/sources_1/new/mux.v,,mips,,,,,,,,
+C:/Users/lenovo/Desktop/P15_Final/P15_Final/P15_Final.srcs/sources_1/new/mux.v,1562340990,verilog,,C:/Users/lenovo/Desktop/P15_Final/P15_Final/P15_Final.srcs/sim_1/new/mips_tb.v,,mux16;mux2;mux4;mux8,,,,,,,,
